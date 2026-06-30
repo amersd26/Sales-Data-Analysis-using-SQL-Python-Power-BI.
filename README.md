@@ -56,7 +56,7 @@ Compared regional sales performance.
 Built interactive dashboards for business decision-making.
 🚀 How to Run
 Clone Repository
-git clone https://github.com/yourusername/Sales-Data-Analysis.git
+git clone https://github.com/amersd26/Sales-Data-Analysis.git
 Install Libraries
 pip install pandas numpy matplotlib jupyter
 Run
