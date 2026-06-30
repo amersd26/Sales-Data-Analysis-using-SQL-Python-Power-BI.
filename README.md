@@ -77,9 +77,10 @@ using Power BI Desktop.
 
 📸 Dashboard Preview
 
-(Add screenshots after uploading to GitHub.)
-
 images/dashboard.png
+![Uploading dashboard.png.png…]()
+
+
 📚 Skills Demonstrated
 Data Cleaning
 Data Analysis
